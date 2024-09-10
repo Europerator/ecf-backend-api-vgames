@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ecf.Vgames.props" />
+</Project>

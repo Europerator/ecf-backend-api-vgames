@@ -2,7 +2,7 @@ import { GizmondoGame } from "./GizmondoGame.js";
 
 class GizmondoRepository 
 {
-    static apiUrl = '/api/';
+    static apiUrl = 'https://localhost:7071/';
 
     static async fetchGames()
     {
